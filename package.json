@@ -1,6 +1,6 @@
 {
   "name": "walletvault",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simple wallet vault for storing seed phrases and private keys of the most popular web3 wallets.",
   "main": "main.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "vault"
   ],
   "author": "skinnynoizze",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
