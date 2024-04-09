@@ -1,6 +1,6 @@
 {
   "name": "walletvault",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple wallet vault for storing seed phrases and private keys of the most popular web3 wallets.",
   "main": "main.js",
   "scripts": {
